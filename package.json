@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git"
+    "url": "git+https://github.com/matveivadimovih-cell/lib"
   },
   "author": "Matviy",
   "license": "UNLICENSED"
